@@ -1,9 +1,9 @@
-### Hi, I'm Isaac Kasenge 👋
+### Hi, I'm Isaac 👋
 
-Full-stack developer and founder of **Total Craft**, a web & software agency based in Nairobi, Kenya. I also teach computer studies to junior school learners (Grades 7–9).
+I'm a full-stack developer and the founder of **Total Craft**, where I build web platforms and tools for clients — Laravel apps, WordPress sites, and the occasional mobile app. I enjoy working across the whole stack, from database design up to the interface people actually use.
 
-**What I work with:** 🧰 Laravel & PHP · 🌍 WordPress (themes & custom plugins) · 📱 Mobile app development · 🗄️ Full-stack delivery, database design through to frontend · 🏗️ Client-facing platforms and internal agency tooling
+Outside of client work, I teach computer studies to junior school learners, which keeps me close to how beginners actually think about technology.
 
-**Currently:** building and maintaining web platforms for clients through Total Craft, developing internal tooling for the agency, and teaching computer studies to junior school learners.
+**What I work with:** 🧰 Laravel & PHP · 🌍 WordPress (themes & custom plugins) · 📱 Mobile app development · 🗄️ Full-stack delivery, database to frontend
 
 **Reach me:** 🌐 [totalcraft.co.ke](https://totalcraft.co.ke) (site in progress) · 💼 [LinkedIn](https://www.linkedin.com/in/isaac-kasenge-4652a1191)
